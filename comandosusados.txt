@@ -1,0 +1,12 @@
+$  git init --initial-branch=main
+git config user.name "Joao Paulino"
+$ git config user.email "victorpoxed@gmail.com"
+$ git config --list --local
+$ git add nomematricula.txt
+$ git status 
+$ git commit -m "meu primiero commit"
+$ git status 
+$ git remote add curso-git-embarcatech https://github.com/JoauPaulino/curso-git-embarcatech.git
+$ git push -u curso-git-embarcatech main
+
+
